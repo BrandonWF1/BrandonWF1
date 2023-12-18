@@ -58,7 +58,8 @@
 ## Личные качества
 💪 У меня много энергии и стремления добиваться успеха в том, что я делаю. Я самостоятельный, умею эффективно действовать автономно, обладаю хорошими коммуникативными навыками и открыт к новым предложениям и идеям.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrandonWF1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BrandonWF1)](https://git.io/streak-stats)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
