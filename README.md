@@ -52,7 +52,7 @@
 
 Вот три из моих наиболее выдающихся проектов, которые демонстрируют мои профессиональные навыки:
 
-1. [Интеграция Headhunter + Bitrix24]((https://github.com/BrandonWF1/integration_hh_bitrix))
+1. [Интеграция Headhunter + Bitrix24](https://github.com/BrandonWF1/integration_hh_bitrix)
 2. [XCMG-Russia](url)
 3. [LGCE-Russia](https://lgce-russia.ru)
 
