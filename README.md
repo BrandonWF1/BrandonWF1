@@ -26,6 +26,7 @@
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![FSD](https://img.shields.io/badge/FSD-007ACC?style=for-the-badge&logo=figma&logoColor=white)
 
 #### Tools & Misc
 
