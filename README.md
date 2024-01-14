@@ -1,9 +1,14 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/brandonWF1" target="_blank">Savva</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32"/></h1>
 
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Front-end+developer)](https://git.io/typing-svg)
 
 Меня зовут Савва, я Frontend-разработчик, специализирующийся на создании динамичных и отзывчивых пользовательских интерфейсов с использованием JavaScript, React, ReduxToolkit и сопутствующих технологий. 🚀
+
+<a href="t.me/brandonWF1">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 
 ## Опыт и навыки
 👨‍💻 Работаю в области коммерческой разработки более 3-х лет, большую часть времени посвящая работе с React, TypeScript, MobX/Redux, а также сборщиком Vite.
