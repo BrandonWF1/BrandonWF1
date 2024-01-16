@@ -53,7 +53,7 @@
 Вот три из моих наиболее выдающихся проектов, которые демонстрируют мои профессиональные навыки:
 
 1. [Интеграция Headhunter + Bitrix24](https://github.com/BrandonWF1/integration_hh_bitrix)
-2. [РВК-Статистика]()
+2. [РВК-Статистика](https://github.com/BrandonWF1/rvk-statistics)
 3. [Еврозвук]()
 
 ## Что я ищу
