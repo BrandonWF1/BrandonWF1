@@ -6,20 +6,20 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Front-end+developer)](https://git.io/typing-svg)
 
-<h3>Меня зовут Савва, я Frontend-разработчик, специализирующийся на создании динамичных и отзывчивых пользовательских интерфейсов с использованием JavaScript, React, ReduxToolkit и сопутствующих технологий.
-</h3>
+<h4>Меня зовут Савва, я Frontend-разработчик, специализирующийся на создании динамичных и отзывчивых пользовательских интерфейсов с использованием JavaScript, React, ReduxToolkit и сопутствующих технологий.
+</h4>
 
 <a href="https://t.me/brandonWF1">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 
 ## Опыт и навыки
 
-<h3>Работаю в области коммерческой разработки более 4-х лет, большую часть времени посвящая работе с React, TypeScript, MobX/Redux, UI-китами, а также сборщиком Vite.
+<h4>Работаю в области коммерческой разработки более 4-х лет, большую часть времени посвящая работе с React, TypeScript, MobX/Redux, UI-китами, а также сборщиком Vite.
 
-Моя специализация включает в себя создание различных видов сайтов и приложений, в том числе социальных сетей, информационно-познавательных и развлекательных ресурсов, а также других интересных проектов.</h3>
+Моя специализация включает в себя создание различных видов сайтов и приложений, в том числе социальных сетей, информационно-познавательных и развлекательных ресурсов, а также других интересных проектов.</h4>
 
 # Мои навыки и знания
 
-#### Front-end Разработка
+### Front-end Разработка
 <h4>Моя цель - создавать интуитивно понятные и доступные пользовательские интерфейсы, которые обеспечивают отличный пользовательский опыт.
 </h4>
 
@@ -37,7 +37,7 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![FSD](https://img.shields.io/badge/FSD-007ACC?style=for-the-badge&logo=adobe&logoColor=white)
 
-#### Tools & Misc
+### Tools & Misc
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
