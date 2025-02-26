@@ -60,7 +60,8 @@
 ---
 
 📫 Связаться со мной можно через:
-- ice22333@gmail.com
+- <a href="https://t.me/brandonWF1">Telegram</a>
+- <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsCVwStVRQWqzHvMtznRdRmFZxHpfBKrcfkXcXFflnZxMVWVdrRXdrNPwZhmDxdrzLbskScg">ice22333@gmail.com</a>
 - [hh.ru резюме](https://barnaul.hh.ru/resume/0db87008ff0ca3b0e10039ed1f4f615a41466b)
 
 Спасибо за внимание, с нетерпением жду новых возможностей и сотрудничества!
